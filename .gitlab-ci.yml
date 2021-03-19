@@ -16,8 +16,9 @@ deploy:
   image: instrumentisto/rsync-ssh:latest
   before_script:
     - eval $(ssh-agent -s)
-    - bash -c 'ssh-add <(echo "${SSH_PRIVATE_KEY}")'
     - mkdir -p ~/.ssh && chmod 700 ~/.ssh
+    - echo ${SSH_PRIVATE_KEY} | base64 -d > ~/.ssh/id_rsa
+    - chmod 600 ~/.ssh/id_rsa
     - ssh-keyscan -t rsa ${REMOTE_HOST_NAME} >> ~/.ssh/known_hosts
   script:
     - rsync -azhv --delete public/ "${SSH_USER_HOST_LOCATION}"
