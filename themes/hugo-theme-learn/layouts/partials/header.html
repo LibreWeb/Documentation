@@ -6,7 +6,7 @@
     {{ partial "meta.html" . }}
     {{ partial "favicon.html" . }}
     <title>{{ .Title }} {{ default "::" .Site.Params.titleSeparator }} {{ .Site.Title }}</title>
-    {{ $assetBusting := not .Site.Params.disableAssetsBusting }}
+    {{- $assetBusting := not .Site.Params.disableAssetsBusting -}}
     <link href="{{"css/nucleus.css" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}" rel="stylesheet">
     <link href="{{"css/fontawesome-all.min.css" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}" rel="stylesheet">
     <link href="{{"css/hybrid.css" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}" rel="stylesheet">
@@ -17,15 +17,13 @@
     <link href="{{"css/theme.css" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}" rel="stylesheet">
     <link href="{{"css/tabs.css" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}" rel="stylesheet">
     <link href="{{"css/hugo-theme.css" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}" rel="stylesheet">
-    {{with .Site.Params.themeVariant}}
+    {{ with .Site.Params.themeVariant -}}
     <link href="{{(printf "css/theme-%s.css" .) | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}" rel="stylesheet">
-    {{end}}
+    {{- end}}
     {{ range .Site.Params.custom_css -}}
     <link href="{{(printf "%s" .) | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}" rel="stylesheet">
     {{- end }}
-
     <script src="{{"js/jquery-3.6.0.min.js"| relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}"></script>
-
     <style>
       :root #header + #content > #left > #rlblock_left{
           display:none !important;
@@ -39,7 +37,7 @@
     {{ partial "custom-header.html" . }}
   </head>
   <body class="" data-url="{{ .RelPermalink }}">
-    {{- partial "menu.html" . -}}
+    {{ partial "menu.html" . }}
         <section id="body">
         <div id="overlay"></div>
         <div class="padding highlightable">
@@ -47,8 +45,8 @@
               <div>
                 <div id="top-bar">
                 {{ if and (or .IsPage .IsSection) .Site.Params.editURL }}
-                  {{ $File := .File }}
-                  {{ $Site := .Site }}
+                  {{- $File := .File -}}
+                  {{- $Site := .Site -}}
                   {{with $File.Path }}
                   <div id="top-github-link">
                     <a class="github-link" title='{{T "Edit-this-page"}}' href="{{ $Site.Params.editURL }}{{ replace $File.Dir "\\" "/" }}{{ $File.LogicalName }}" target="blank">
@@ -98,7 +96,6 @@
               {{.Title}}
             </h1>
           {{end}}
-
         {{define "breadcrumb"}}
           {{$parent := .page.Parent }}
           {{ if $parent }}
