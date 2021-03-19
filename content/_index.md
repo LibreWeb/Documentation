@@ -1,5 +1,5 @@
 ---
-title: "Docs"
+title: "Docs 📚"
 ---
 
 # LibreWeb Documentation
