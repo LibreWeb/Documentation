@@ -4,10 +4,12 @@ title: "Docs"
 
 # LibreWeb Documentation
 
-## blabla
+Welcome to the LibreWeb Documentation page.
+
+## Work in Process
 
 {{% notice note %}}
-Indeed
+LibreWeb Browser is still in Alpha.
 {{% /notice %}}
 
 ## Download LibreWeb

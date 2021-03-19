@@ -501,31 +501,9 @@ th {
       .fixed-blocks .block {
         width: 100%; } }
 
-body {
-  font-size: 1.05rem;
-  line-height: 1.7; }
-
 h1, h2, h3, h4, h5, h6 {
   margin: 0.85rem 0 1.7rem 0;
   text-rendering: optimizeLegibility; }
-
-h1 {
-  font-size: 3.25rem; }
-
-h2 {
-  font-size: 2.55rem; }
-
-h3 {
-  font-size: 2.15rem; }
-
-h4 {
-  font-size: 1.8rem; }
-
-h5 {
-  font-size: 1.4rem; }
-
-h6 {
-  font-size: 0.9rem; }
 
 p {
   margin: 1.7rem 0; }

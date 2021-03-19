@@ -1,8 +1,6 @@
 /* Insert here special css for hugo theme, on top of any other imported css */
 
-
 /* Table of contents */
-
 .progress ul {
   list-style: none;
   margin: 0;
@@ -128,8 +126,8 @@ body {
   cursor:pointer;
   visibility:hidden;
   margin-left: 0.5em;
-    position: absolute;
-    margin-top:0.1em;
+  position: absolute;
+  margin-top:0.1em;
 }
 
 h2:hover .anchor, h3:hover .anchor, h4:hover .anchor, h5:hover .anchor, h6:hover .anchor {
@@ -147,20 +145,24 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   font-weight: inherit;
 }
 
+h1 {
+    font-size: 2.20rem;
+}
+
 h2 {
-  font-size: 2.5rem;
+  font-size: 1.8rem;
   line-height: 110% !important;
   margin: 2.5rem 0 1.5rem 0;
 }
 
 h3 {
-  font-size: 2rem;
+  font-size: 1.6rem;
   line-height: 110% !important;
   margin: 2rem 0 1rem 0;
 }
 
 h4 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   line-height: 110% !important;
   margin: 1.5rem 0 0.75rem 0;
 }
@@ -172,7 +174,7 @@ h5 {
 }
 
 h6 {
-  font-size: 0.5rem;
+  font-size: 0.6rem;
   line-height: 110% !important;
   margin: 0.5rem 0 0.2rem 0;
 }

@@ -43,16 +43,16 @@ body {
     color: #777;
 }
 body #chapter h1 {
-    font-size: 3.5rem;
+    font-size: 2.5rem;
 }
 @media only all and (min-width: 48em) and (max-width: 59.938em) {
     body #chapter h1 {
-        font-size: 3rem;
+        font-size: 2rem;
     }
 }
 @media only all and (max-width: 47.938em) {
     body #chapter h1 {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 }
 a {
@@ -432,7 +432,6 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     text-align: center;
 }
 #chapter h1 {
-    font-size: 5rem;
     border-bottom: 4px solid #F0F2F4;
 }
 #chapter p {
@@ -453,6 +452,7 @@ body {
     line-height: 1.6;
     font-size: 18px !important;
 }
+
 h2, h3, h4, h5, h6 {
     font-family: "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
     text-rendering: optimizeLegibility;
@@ -461,11 +461,7 @@ h2, h3, h4, h5, h6 {
     letter-spacing: -1px;
 }
 h1 {
-    font-family: "Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
-    text-align: center;
-    text-transform: uppercase;
-    color: #222;
-    font-weight: 200;
+    font-family: "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
 }
 blockquote {
     border-left: 10px solid #F0F2F4;
