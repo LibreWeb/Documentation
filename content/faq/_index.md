@@ -10,4 +10,5 @@ Here you will find the frequently asked questions.
 
 We already executed several proof-of-concepts and research topics part of the [LibreWeb Research Lab](https://gitlab.melroy.org/libreweb/research_lab).
 
-Currently, the [LibreWeb Browser project](https://gitlab.melroy.org/libreweb/browser) is still in heavy development (Alpha phase). LibreWeb releases can be found on the [Releases page](https://gitlab.melroy.org/libreweb/browser/-/releases) (currently GNU/Linux builds, but soon Mac OS X and Microsoft Windows).
+Currently, the [LibreWeb Browser project](https://gitlab.melroy.org/libreweb/browser) is still in heavy development (Alpha phase).  
+LibreWeb releases can be found on the [Releases page](https://gitlab.melroy.org/libreweb/browser/-/releases) (currently GNU/Linux builds, but soon Mac OS X and Microsoft Windows).
