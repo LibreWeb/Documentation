@@ -8,7 +8,7 @@ metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = "https://gitlab.melroy.org/libreweb/docs-website/content/"
+  editURL = "https://gitlab.melroy.org/libreweb/docs-website/-/tree/master/content/"
   description = "LibreWeb Documentation"
   author = "Melroy van den Berg"
   showVisitedLinks = false
