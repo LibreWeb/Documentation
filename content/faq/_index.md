@@ -25,6 +25,6 @@ You can help the LibreWeb Project in several ways, including but not limited to:
 
 ## Is LibreWeb Free?
 
-Yes, [libreWeb Browser](https://gitlab.melroy.org/libreweb/browser) is 100% open-source and free software, licensed under the [MIT license](). 
+Yes, [libreWeb Browser](https://gitlab.melroy.org/libreweb/browser) is fully open-source and is 100% free software, licensed under the [MIT license](https://gitlab.melroy.org/libreweb/browser/-/blob/master/LICENSE). No costs, no ads, no tracking, no telemetry, no in-app purchases.
 
 Also LibreWeb Browser is fully decentralized, allowing you to store your content across the network, without any hosting costs. And no censorship. LibreWeb uses [IPFS](https://ipfs.io/) for decentralized content fetching and storage.
