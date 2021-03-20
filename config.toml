@@ -29,10 +29,8 @@ identifier = "repo"
 url = "https://gitlab.melroy.org/libreweb"
 weight = 10
 
-
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
-
 
 #[Languages]
 #[Languages.en]
