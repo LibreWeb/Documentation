@@ -22,4 +22,4 @@ LibreWeb Browser is still in Alpha.
 
 ## Download LibreWeb
 
-{{% button href="https://gitlab.melroy.org/libreweb/browser/-/releases" target="_blank" icon="fas fa-download" %}}Download LibreWeb Browser{{% /button %}}
+{{% button href="https://gitlab.melroy.org/libreweb/browser/-/releases" target="_blank" icon="fas fa-download" %}} Download LibreWeb Browser{{% /button %}}
