@@ -12,7 +12,7 @@ LibreWeb (specifically LibreWeb Browser) is a fully decentralized open-source We
 
 Allowing you to browse and host your content on the new decentralized web/Internet. Powered by [IPFS](#ipfs). 
 
-Decentralization comes with many benefits, including but not limited:
+Decentralization comes with many benefits, including but not limited to:
 
 * **No censorship**. Because the data is stored in a decentralized manner across the world, governments are unable to block or censor the content.
 * **No single-point-of-failure.** If a specific server/node is down, your data can be served by other nodes within the network.
