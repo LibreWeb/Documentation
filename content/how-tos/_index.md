@@ -8,7 +8,7 @@ No matter what you are looking for, we have a tutorial and how-tos to help you.
 
 ## Getting started
 
-How to install LibreWeb Browser? Just visit the [releases page](https://gitlab.melroy.org/libreweb/browser/-/releases).
+How to install LibreWeb Browser? Just visit the [releases page](https://gitlab.melroy.org/libreweb/browser/-/releases). And download the correct package for your Linux distribution.
 
 ## How to deploy my site?
 
