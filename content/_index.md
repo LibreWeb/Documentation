@@ -10,7 +10,8 @@ You want to go back? Visit the [official LibreWeb Homepage](https://libreweb.org
 
 Check-out some of the most popular content in these docs below:
 
-* [Basic Concepts](concepts)
+* [Join the Community](community)
+* [Basic LibreWeb Concepts](concepts)
 * [Frequently Asked Questions](faq)
 
 
