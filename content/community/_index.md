@@ -6,7 +6,8 @@ description : "LibreWeb is a diverse community of dozens of contributors and par
 
 LibreWeb is a diverse community of dozens of contributors and participants from all over the world.
 
-We welcome new contributes and supports. Join the communities below, see also [how you can help us](faq/#how-can-i-contribute).
+We welcome new contributes and supports!  
+Join the communities below, see also [how you can help us](/faq/#how-can-i-contribute).
 
 <!-- ## Forums -->
 
