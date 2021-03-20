@@ -4,6 +4,20 @@ weight: 20
 description : "Synchronize selection of content in different tabbed views"
 ---
 
-The future is near..
+No matter what you are looking for we have a tutorial and how-tos to help you.
 
-## aa
+## Getting started
+
+How to install LibreWeb Browser? Just visit the [releases page](https://gitlab.melroy.org/libreweb/browser/-/releases).
+
+## How to deploy my site?
+
+<TODO>
+
+## How to browse content?
+
+<TODO>
+
+## How to find websites?
+
+<TODO>
