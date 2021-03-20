@@ -10,9 +10,9 @@ You want to go back? Visit the [official LibreWeb Homepage](https://libreweb.org
 
 Check-out some of the most popular content in these docs below:
 
-* [Join the Community](community)
-* [Basic Concepts](concepts)
-* [Frequently Asked Questions](faq)
+* [Join the Community](/community)
+* [Basic Concepts](/concepts)
+* [Frequently Asked Questions](/faq)
 
 
 ## Work in Process
