@@ -8,7 +8,9 @@ New to LibreWeb or the distributed web? Learn about the concepts.
 
 ## LibreWeb
 
-LibreWeb (specifically LibreWeb Browser) is a decentralized open-source browser. Allowing you to browse and host your content on the new decentralized web/Internet. Powered by [IPFS](#ipfs). 
+LibreWeb (specifically LibreWeb Browser) is a fully decentralized open-source Web Browser. 
+
+Allowing you to browse and host your content on the new decentralized web/Internet. Powered by [IPFS](#ipfs). 
 
 Decentralization comes with many benefits, including but not limited:
 
