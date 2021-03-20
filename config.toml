@@ -21,10 +21,18 @@ defaultContentLanguageInSubdir= true
   disableMermaid = true
   customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
   titleSeparator = "-"
-  landingPageName = "<i class='fas fa-home'></i> Home"
+  landingPageName = "<i class='fas fa-home'></i>&nbsp;Home"
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-gitlab'></i>&nbsp;GitLab Project"
+identifier = "repo"
+url = "https://gitlab.melroy.org/libreweb"
+weight = 10
+
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
 
 #[Languages]
 #[Languages.en]
