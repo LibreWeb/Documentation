@@ -1,6 +1,6 @@
 ---
 title: "Concepts"
-weight: 1
+weight: 2
 description : "Learn about the concepts behind LibreWeb, especially useful if you are new to LibreWeb."
 ---
 

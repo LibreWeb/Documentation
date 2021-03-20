@@ -1,6 +1,6 @@
 ---
 title: "How-tos"
-weight: 20
+weight: 4
 description : "How-tos and tutorial for LibreWeb Browser to help you"
 ---
 
@@ -12,12 +12,12 @@ How to install LibreWeb Browser? Just visit the [releases page](https://gitlab.m
 
 ## How to deploy my site/blog?
 
-<TODO>
+TODO
 
 ## How to browse content?
 
-<TODO>
+TODO
 
 ## How to find other websites?
 
-<TODO>
+TODO

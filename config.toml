@@ -29,8 +29,19 @@ identifier = "repo"
 url = "https://gitlab.melroy.org/libreweb"
 weight = 10
 
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-globe'></i>&nbsp;LibreWeb Homepage"
+identifier = "home"
+url = "https://libreweb.org"
+weight = 11
+
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 #[Languages]
 #[Languages.en]

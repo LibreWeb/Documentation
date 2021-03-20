@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-weight: 1
+weight: 3
 description : "Frequently Asked Questions, mosted asked questions from the community"
 ---
 
@@ -22,6 +22,8 @@ You can help the LibreWeb Project in several ways, including but not limited to:
 * [Browser Development](https://gitlab.melroy.org/libreweb/browser)
 * [Updating Documentation](https://gitlab.melroy.org/libreweb/docs-website)
 * [Issue/feature reporting](https://gitlab.melroy.org/libreweb/browser/-/issues)
+
+Read also the [Contribute to LibreWeb](/project/contribute) page.
 
 ## Is LibreWeb Free?
 
