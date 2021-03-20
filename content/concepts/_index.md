@@ -8,9 +8,28 @@ New to LibreWeb or the distributed web? Learn about the concepts.
 
 ## LibreWeb
 
+LibreWeb (specifically LibreWeb Browser) is a decentralized open-source browser. Allowing you to browse and host your content on the new decentralized web/Internet. Powered by [IPFS](#ipfs). 
+
+Decentralization comes with many benefits, including but not limited:
+
+* **No censorship**. Because the data is stored in a decentralized manner across the world, governments are unable to block or censor the content.
+* **No single-point-of-failure.** If a specific server/node is down, your data can be served by other nodes within the network.
+* **Fast**. The nearest node can serve you the content, basically acting as a content delivery network (CDN), however then decentralized.
+
+### Markdown Syntax
+
+LibreWeb is using [Markdown syntax](https://en.wikipedia.org/wiki/Markdown) as the 'source-code' of your content/article/site/blog, similar to static-website generators like `Hugo` or `Jekyll`, however LibreWeb Browser does **not** need the conversion step from Markdown to HTML. 
+
+LibreWeb Browser parsers & renders the Markdown documents directly, allowing to view the content by the end-user. Without HTML and JavaScript, the websites are much cleaner and faster to load.  
+A real content-first design approach, allowing the end-user to change the look & feel, just like with e-books.
+
+### BlockChain?
+
+LibreWeb is explicitly **NOT** based on any BlockChain technology or cryptocurrency. Because Blockchain solutions can give huge scalability issues as well as an unnecessary bad influence on our climate. Most importantly, there is no need to use this technology in order to create a decentralized Internet.
+
 ## IPFS
 
-IPFS is a distributed system for storing and accessing files, websites, applications, and data.
+IPFS (InterPlanetary File System) is a distributed system for storing and accessing files, websites, applications, and data.
 
 Making it possible to download a file from many locations that aren't managed by one organization:
 
