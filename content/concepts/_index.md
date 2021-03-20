@@ -22,7 +22,7 @@ Decentralization comes with many benefits, including but not limited:
 
 LibreWeb is using [Markdown syntax](https://en.wikipedia.org/wiki/Markdown) as the 'source-code' of your content/article/site/blog, similar to static-website generators like `Hugo` or `Jekyll`, however LibreWeb Browser does **not** need the conversion step from Markdown to HTML. 
 
-LibreWeb Browser parsers & renders the Markdown documents directly, allowing to view the content by the end-user. Without HTML and JavaScript, the websites are much cleaner and faster to load.  
+LibreWeb Browser parsers & renders the Markdown documents directly, allowing to view the content by the end-user. Without HTML and JavaScript, the websites are much cleaner and are loading faster. Security wise, without JavaScript, WebRTC, PHP and/or SQL the web is a much safer place.  
 A real content-first approach, allowing the user to change their look & feel of the content, just like with e-books.
 
 ### Blockchain
