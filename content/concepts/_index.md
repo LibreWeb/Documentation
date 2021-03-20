@@ -1,7 +1,7 @@
 ---
 title: "Concepts"
 weight: 1
-description : "Nwe to LiberWeb? Learn about the concepts"
+description : "Learn about the concepts behind LibreWeb, especially useful if you are new to LibreWeb."
 ---
 
 New to LibreWeb or the distributed web? Learn about the concepts.
