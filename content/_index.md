@@ -18,7 +18,7 @@ Check-out some of the most popular content in these docs below:
 ## Work in Process
 
 {{% notice note %}}
-LibreWeb Browser is still in Alpha.
+**Disclaimer:** LibreWeb Browser is still work in progress (Alpha phase). However, you are free to contribute!
 {{% /notice %}}
 
 ## Download LibreWeb
