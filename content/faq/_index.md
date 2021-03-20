@@ -1,7 +1,7 @@
 ---
 title: "FAQ"
 weight: 1
-description : "Frequently Asked Questions"
+description : "Frequently Asked Questions, mosted asked questions from the community"
 ---
 
 Here you will find the frequently asked questions.
