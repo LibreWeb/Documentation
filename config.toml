@@ -3,7 +3,7 @@ languageCode = "en-US"
 defaultContentLanguage = "en"
 
 title = "LibreWeb Documentation"
-theme = "hugo-theme-learn"
+theme = "libredocs"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
