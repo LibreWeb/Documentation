@@ -18,7 +18,7 @@ Decentralization comes with many benefits, including but not limited to:
 * **No single-point-of-failure.** If a specific server/node is down, your data can be served by other nodes within the network.
 * **Fast**. The nearest node can serve you the content, basically acting as a content delivery network (CDN), however then decentralized.
 
-See also the [Project](/project) page, if you want to learn more about the LibreWeb project.
+See also the [Project page](/project); if you want to learn more about the LibreWeb project.
 
 ### Markdown Syntax
 
