@@ -8,9 +8,9 @@ New to LibreWeb or the distributed web? Learn about the concepts.
 
 ## LibreWeb
 
-LibreWeb (specifically LibreWeb Browser) is a fully decentralized open-source Web Browser. 
+LibreWeb (specifically LibreWeb Browser) is a fully decentralized open-source Web Browser.
 
-Allowing you to browse and host your content on the new decentralized web/Internet. Powered by [IPFS](#ipfs). 
+Allowing you to browse and host your content on the new decentralized web/Internet. Powered by [IPFS](#ipfs).
 
 Decentralization comes with many benefits, including but not limited to:
 
@@ -29,7 +29,7 @@ A real content-first approach, allowing the user to change their look & feel of 
 
 ### Blockchain
 
-LibreWeb is explicitly **NOT** using any Blockchain technology or based on a cryptocurrency. Because blockchain solutions can give huge scalability issues as well as an unnecessary bad influence on our climate. 
+LibreWeb is explicitly **NOT** using any Blockchain technology or based on a cryptocurrency. Because blockchain solutions can give huge scalability issues as well as an unnecessary bad influence on our climate.
 
 Most importantly, there is no need to use this technology in order to create a decentralized Internet.
 
