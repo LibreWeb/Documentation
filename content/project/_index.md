@@ -26,7 +26,7 @@ The following success criteria has been identified from the beginning:
 * **Human-readable source code:** Use Markdown as source-code which is easy to understand and type. Markdown can also be extended with additional features;
 * **Visitor is in control:** The visitors are in control, they can individually change their look & feel or style of the content (just like with e-books);
 * **Content is King:** Content-first approach, no flashy ad banners, web animations or JavaScript pop-ups anymore;
-* **Fast and Extensible:** LibreWeb Browser should be fast and easily extensible.
+* **Fast & Extensible:** LibreWeb Browser should be fast and easily extensible.
 
 ## Research
 
