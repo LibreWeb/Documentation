@@ -12,8 +12,9 @@ Check-out some of the most popular content in these docs below:
 
 * [Join the Community](/community)
 * [Basic Concepts](/concepts)
+* [Learn more about the Project](/project)
 * [Frequently Asked Questions](/faq)
-* [How-to Contribute](/project/contribute)
+* [How-to Contribute?](/project/contribute)
 
 ## Work in Process
 
