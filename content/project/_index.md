@@ -8,11 +8,25 @@ How did the **LibreWeb project** started? And how will the future look like?
 
 ## History of LibreWeb
 
+<!--## Roadmap
+
+Coming soon  Part of GitLab? 
+
+-->
+
 ## Success criteria
 
-## Roadmap
+The following success criteria has been identified from the beginning:
 
-Coming soon <!-- Part of GitLab? -->
+* **Decentralized:** No single-point of failure or censorship. Data is stored redundantly, no client-server anymore;
+* **Easy:** Everyone should be able to browse the decentralized web and create their own site/blog/news page and publish the content via an built-in editor (no technical knowledge required);
+* **Encrypted network:** Sensitive data should be encrypted by default (AES 4096-bit RSA private/public key-pair);
+* **Versioning:** Revisions of content documentions, never have broken links;
+* **Fully featured sites:** Publisher user should be able to add multiple pages as well as add additional meta data (like title, weight). Similar to Hugo or Jekyll static-site generators;
+* **Human-readable source-code:** Use Markdown as source-code, which can be extended with additional add-ons;
+* **Visitor is in control:** The visitors are in control, they can individually change look & feel and style of the content (just like with e-books);
+* **Content is King:** Content-first approach, no flashy ad banners, web animations or JavaScript pop-ups anymore;
+* **Fast and Extensible:** The product should be fast and easily extensible.
 
 ## Research
 
@@ -24,3 +38,6 @@ LibreWeb is using the [IPFS stack](https://ipfs.io/) to accelerate the decentral
 
 ## Contribute to LibreWeb
 
+People can contribute to LibreWeb from all over the world - and that can include you.
+
+LibreWeb is a decentralized Internet alternative, make a better decentralized world by [contributing to LibreWeb](/project/contribute).
