@@ -14,10 +14,14 @@ LibreWeb is on several social media platforms. Pick your favorite here.
 
 [LibreWeb on Facebook](https://www.facebook.com/LibreWeb.org).
 
+## <i class="fab fa-linkedin-in"></i> LinkedIn
+
+[Follow our LinkedIn page](https://www.linkedin.com/company/libreweb).
+
 ## <i class="fab fa-reddit-alien"></i> Reddit
 
-[LibreWeb on Reddit](https://www.reddit.com/r/libreweb/).
+Post something on our [subReddit](https://www.reddit.com/r/libreweb/).
 
-## <i class="fab fa-youtube"></i> YouTube 
+## <i class="fab fa-youtube"></i> YouTube
 
 [LibreWeb's YouTube channel](https://www.youtube.com/channel/UC1wZpYca2iu4pJ3bhZ3azcw) (Videos coming soon).
