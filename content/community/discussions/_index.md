@@ -4,7 +4,7 @@ weight: 1
 description : "Dicussions and help can be found on forums or our chat services."
 ---
 
-Dicussions and help can be found on our Forums, Telegram or Matrix. Other services we do not trust and/or proven themselves enough to be used as the LibreWeb communication.
+Dicussions and help can be found on our Forums (coming soon), Telegram or Matrix. Other services we do not trust and/or not proven themselves good enough to be used for communication.
 
 <!-- ## LibreWeb Forums -->
 
