@@ -10,11 +10,11 @@ LibreWeb is on several social media platforms. Pick your favorite here.
 
 [LibreWeb on Twitter](https://twitter.com/LibreWebOrg).
 
-## <i class="fab fa-facebook-f"></i> Facebook
+## <i class="fab fa-facebook-f"></i>acebook
 
 [LibreWeb on Facebook](https://www.facebook.com/LibreWeb.org).
 
-## <i class="fab fa-linkedin-in"></i> LinkedIn
+## Linked<i class="fab fa-linkedin-in"></i> 
 
 [Follow our LinkedIn page](https://www.linkedin.com/company/libreweb).
 
