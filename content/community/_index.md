@@ -9,8 +9,6 @@ LibreWeb is a diverse community of dozens of contributors and participants from 
 We welcome new contributes and supporters of LibreWeb!  
 Join the communities below, see also [how you can help us](/faq/#how-can-i-contribute).
 
-See also [Discussions](/discussions) (like instant chat communication).
-
 <!-- ## Forums -->
 
 <!-- ## Blog -->
@@ -28,3 +26,11 @@ See also [Discussions](/discussions) (like instant chat communication).
 ## Newsletter
 
 Coming soon...
+
+## Discussions
+
+See also [Discussions](/community/discussions) (eg. instant chat communication).
+
+## Social media
+
+We are in a lot of places. [Pick your favorite platform](/community/social-media).
