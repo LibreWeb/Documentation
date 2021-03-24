@@ -6,18 +6,18 @@ description : "LibreWeb is on several social media platforms."
 
 LibreWeb is on several social media platforms. Pick your favorite here.
 
-## Twitter <i class="fab fa-twitter"></i>
+## <i class="fab fa-twitter"></i> Twitter
 
-[LibreWeb on Twitter](https://twitter.com/LibreWebOrg).
+* [LibreWeb on Twitter](https://twitter.com/LibreWebOrg).
 
-## Facebook <i class="fab fa-facebook-f"></i>
+## <i class="fab fa-facebook-f"></i> Facebook
 
-[LibreWeb on Facebook](https://www.facebook.com/LibreWeb.org).
+* [LibreWeb on Facebook](https://www.facebook.com/LibreWeb.org).
 
-## Reddit <i class="fab fa-reddit-alien"></i>
+## <i class="fab fa-reddit-alien"></i> Reddit
 
-[LibreWeb on Reddit](https://www.reddit.com/r/libreweb/).
+* [LibreWeb on Reddit](https://www.reddit.com/r/libreweb/).
 
-## YouTube <i class="fab fa-youtube"></i>
+## <i class="fab fa-youtube"></i> YouTube
 
-[LibreWeb on YouTube](https://www.youtube.com/channel/UC1wZpYca2iu4pJ3bhZ3azcw) (Videos coming soon).
+* [LibreWeb's YouTube channel](https://www.youtube.com/channel/UC1wZpYca2iu4pJ3bhZ3azcw) (Videos coming soon).
