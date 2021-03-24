@@ -14,6 +14,10 @@ Coming soon  Part of GitLab?
 
 -->
 
+## Source code
+
+Our source code is hosted on [GitLab](https://gitlab.melroy.org/libreweb), which has multiple projects. The main project is the [LibreWeb Browser repository](https://gitlab.melroy.org/libreweb/browser).
+
 ## Success criteria
 
 The following success criteria has been identified from the beginning:
