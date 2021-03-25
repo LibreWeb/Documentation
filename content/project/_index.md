@@ -33,7 +33,7 @@ We are using [GitLab Milestones](https://gitlab.melroy.org/libreweb/browser/-/mi
 
 ## Mission statement
 
-The mission of LibreWeb is to create a fully decentralized web & web-browser, build on top of IPFS. Allowing users to easily surf the decentralized web as well as publish content to it.
+The mission of LibreWeb is to create a fully decentralized web & web-browser, build on top of IPFS. Allowing users to easily surf the decentralized web as well as publish content on the decentralized web.
 
 ## Software Development
 
