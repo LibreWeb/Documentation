@@ -6,13 +6,32 @@ description : "About the LibreWeb Project."
 
 How did the **LibreWeb project** started? And how will the future look like?
 
-## History of LibreWeb
+## History
 
-<!--## Roadmap
+### Intro
 
-Coming soon  Part of GitLab? 
+Insipired by Douglas Engelbart, Tim Berners-Lee and Ted Nelson. Ted created a Hypertext markup language (later known as HTML). Tim proposed an information management system, created a client-server implementation using Hypertext Transfer Protocol (HTTP). We all known this now as the World Wide Web.  
+It's important to understand that not all the ideas of the people mentioned above are actually implemented as they envisioned. This is where [IPFS](https://ipfs.io) and [LibreWeb](https://libreweb.org) comes into play.
 
--->
+### History of LibreWeb
+
+LibreWeb project started in 2014. LibreWeb initially wanted to change the Internet topology by building a large mesh network with routers and/or specialized long-range WiFi hardware. Giving you an alternative Internet connection, but was forseen to be very difficult to scale well. Also in the meanwhile better alternatives will become possible; like the [Starlink project](https://www.starlink.com/) from Elon Musk.
+
+So in 2020 we changed our course and our goals. Instead LibreWeb now focuses towards a decentralized web stack (building on top of IPFS). Enabling users (yes, you) to easily surf the decentralized web as well as publish their content/sites on LibreWeb. Removing the underlying complexity from the end-users.
+
+See also:
+
+* [LibreWeb Concepts](/concepts)
+* [LibreWeb Research lab](https://gitlab.melroy.org/libreweb/research_lab/-/blob/master/research.md) (external link)
+* [LibreWeb FAQ](/faq)
+
+## Roadmap
+
+We are using [GitLab Milestones](https://gitlab.melroy.org/libreweb/browser/-/milestones) to track the roadmap features/epics of the project and their priority.
+
+## Mission statement
+
+The mission of LibreWeb is to create a fully decentralized web & web-browser, build on top of IPFS. Allowing users to easily surf the decentralized web as well as publish content to it.
 
 ## Success criteria
 
@@ -30,11 +49,11 @@ The following success criteria has been identified from the beginning:
 
 ## Research
 
-LibreWeb has a dedicated [Research project in GitLab](https://gitlab.melroy.org/libreweb/research_lab). This is a place for experiments, research and prototypes. We make dediciations based on facts, before rolling-out new ideas.
+LibreWeb has a dedicated [Research Lab project](https://gitlab.melroy.org/libreweb/research_lab) (external link). This is a place for experiments, research and prototypes. We make dediciations based on facts, before rolling-out new ideas.
 
 ## Related projects
 
-LibreWeb is using the [IPFS stack](https://ipfs.io/) to accelerate the decentralized movement.
+LibreWeb is using the [IPFS stack](https://ipfs.io/) (external link) to accelerate the decentralized web movement.
 
 ## Contribute to LibreWeb
 
