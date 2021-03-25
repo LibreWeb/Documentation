@@ -35,9 +35,9 @@ We are using [GitLab Milestones](https://gitlab.melroy.org/libreweb/browser/-/mi
 
 The mission of LibreWeb is to create a fully decentralized web & web-browser, build on top of IPFS. Allowing users to easily surf the decentralized web as well as publish content to it.
 
-## Development
+## Software Development
 
-Our source-code is hosted on [GitLab](https://gitlab.melroy.org/libreweb), which consisting of multiple projects. 
+Our source-code is hosted on [GitLab](https://gitlab.melroy.org/libreweb), which consists of multiple projects. 
 
 The main project is the [LibreWeb Browser repository](https://gitlab.melroy.org/libreweb/browser), see also:
 
