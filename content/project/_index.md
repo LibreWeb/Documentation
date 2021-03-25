@@ -10,7 +10,7 @@ How did the **LibreWeb project** started? And how will the future look like?
 
 ### Intro
 
-Insipired by Douglas Engelbart, Tim Berners-Lee and Ted Nelson. Ted created a Hypertext markup language (later known as HTML). Tim proposed an information management system, created a client-server implementation using Hypertext Transfer Protocol (HTTP). We all known this now as the World Wide Web.  
+Insipired by Douglas Engelbart, Tim Berners-Lee and Ted Nelson. Ted created a Hypertext markup language (HTML). Tim proposed an information management system, created a client-server implementation using Hypertext Transfer Protocol (HTTP). We all know this now as the World Wide Web.  
 It's important to understand that not all the ideas of the people mentioned above are actually implemented as they envisioned. This is where [IPFS](https://ipfs.io) and [LibreWeb](https://libreweb.org) comes into play.
 
 ### History of LibreWeb
