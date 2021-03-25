@@ -16,7 +16,7 @@ This is where [IPFS](https://ipfs.io) and [LibreWeb](https://libreweb.org) comes
 
 ### History of LibreWeb
 
-LibreWeb project started in 2014. LibreWeb initially wanted to change the Internet topology by building a large mesh network with routers and/or specialized long-range WiFi hardware. Giving you an alternative Internet connection, but was forseen to be very difficult to scale well. Also in the meanwhile better alternatives will become possible; like the [Starlink project](https://www.starlink.com/) from Elon Musk.
+LibreWeb project started in 2014. LibreWeb initially wanted to change the Internet topology by building a large mesh network with routers and/or specialized long-range WiFi hardware. Giving you an alternative Internet connection, but was forseen to be difficult to scale. Also in the meanwhile better alternatives will become possible; like the [Starlink project](https://www.starlink.com/) from Elon Musk.
 
 So in 2020 we changed our course and our goals. Instead LibreWeb now focuses towards a decentralized web stack (building on top of IPFS). Enabling users (yes, you) to easily surf the decentralized web as well as publish their content/sites on LibreWeb. Removing the underlying complexity from the end-users.
 
