@@ -37,9 +37,9 @@ Research projects, websites and documentation pages are also open-source availab
 
 LibreWeb is actually using markdown files as the source instead of HTML.
 
-If you are using static site generators like Hugo or Jekyll to generate your current site, you should be future proof for LibreWeb.
+If you are using static site generators like Hugo or Jekyll to generate your site currently, you should be future proof for LibreWeb.
 
-Currently LibreWeb has a built-in markdown editor. Additional features will be added later for deploying the content on IPFS as well as fully functional sites, simular to Hugo/Jekyll. *Without* any need to generate HTML content.
+Moreover, LibreWeb has a built-in markdown editor to easily write our own site with no technical skills required. Additional features will be added later for deploying the content on IPFS as well as fully functional sites, simular to Hugo/Jekyll. *Without* any need to generate HTML content.
 
 ## Can LibreWeb Browser replace my current web-browser?
 
