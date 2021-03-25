@@ -25,4 +25,8 @@ You can create an [issue on the documentation repository](https://gitlab.melroy.
 
 Interact with the community, people may get stuck or have questions.
 
-See the [Telegram](https://t.me/libreweb) and [Matrix](https://matrix.to/#/#libreweb:melroy.org?via=melroy.org) rooms you can join and help out.
+Join the [Telegram](https://t.me/libreweb) and/or [Matrix](https://matrix.to/#/#libreweb:melroy.org?via=melroy.org) community. <!-- TODO: add Forums -->
+
+See also: [Community page](/community).
+
+
