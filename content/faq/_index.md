@@ -6,6 +6,14 @@ description : "Frequently Asked Questions, mosted asked questions from the commu
 
 Here you will find the frequently asked questions.
 
+## What is LibreWeb?
+
+LibreWeb is a project which has several sub-projects, including the [LibreWeb Browser](https://gitlab.melroy.org/libreweb/browser).
+
+LibreWeb Browser is a fully **decentralized** free software & open-source Web Browser. Allowing users to easily browse and host new content on the decentralized web.
+
+Decentralization comes with many benefits like resilient to censorship and no single point of failure, please read the [Concepts](/concepts) for more info.
+
 ## What is the current state of the LibreWeb project?
 
 We already executed several proof-of-concepts and research topics part of the [LibreWeb Research Lab](https://gitlab.melroy.org/libreweb/research_lab).
