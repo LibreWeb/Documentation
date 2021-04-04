@@ -44,16 +44,19 @@ Also LibreWeb Browser is fully decentralized, allowing you to store your content
 
 Research projects, websites and documentation pages are also open-source available and open for merge requests.
 
-## How can I deploy my site on LibreWeb?
+## How can I deploy my page on LibreWeb?
 
-LibreWeb is actually using markdown files as the source instead of HTML.
+For how-tos, please see the [How-to documentation page](/how-tos/#how-to-deploy-my-siteblog)
 
-If you are using static site generators like Hugo or Jekyll to generate your site currently, you should be future proof for LibreWeb.
+## People are unable to access my page/site?
 
-Moreover, LibreWeb has a built-in markdown editor to easily write our own site with no technical skills required. Additional features will be added later for deploying the content on IPFS as well as fully functional sites, simular to Hugo/Jekyll. *Without* any need to generate HTML content.
+Make sure the **UPnP** (Universal Plug and Play) feature is enabled on your router, then port forwarding should be correctly configured automatically.
+
+Alternatively, you can always open TCP port `4001` manually in your router's firewall to your local IP address.
 
 ## Can LibreWeb Browser replace my current web-browser?
 
-LibreWeb Browser is sololy intended for surfing and publishing content/sites on the **decentralized web**. Also for security reasons; you won't allow the LibreWeb to browse the 'current Internet'.
+LibreWeb Browser is sololy intended for surfing and publishing page/sites on the **decentralized web**. For security reasons; LibreWeb Browser won't allow you to access the 'current Internet'.
 
-Once more content will be available on the decentralized web, there is less need for the current centralized web. However, the current world wide web as we know it won't disappear anytime soon to be fully honest. So it will take time for developers and users alike to convert to a decentralized world.
+Once more content will be available on the decentralized web, there is less need for the current centralized web as we know it.  
+However, the current WWW won't disappear anytime soon to be fully honest. It will take time for both web-developers and users alike to convert to a decentralized world.
