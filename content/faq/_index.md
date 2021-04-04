@@ -54,6 +54,8 @@ Make sure the **UPnP** (Universal Plug and Play) feature is enabled on your rout
 
 Alternatively, you can always open TCP port `4001` manually in your router's firewall to your local IP address.
 
+Read also [NAT configuration](https://docs.ipfs.io/how-to/nat-configuration/) on the official IPFS documentation page.
+
 ## Can LibreWeb Browser replace my current web-browser?
 
 LibreWeb Browser is sololy intended for surfing and publishing page/sites on the **decentralized web**. For security reasons; LibreWeb Browser won't allow you to access the 'current Internet'.
