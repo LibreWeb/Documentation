@@ -26,7 +26,7 @@ LibreWeb releases can be found on the [Releases page](https://gitlab.melroy.org/
 
 ## How can I contribute?
 
-We always welcome new contributors to this (your) project, and thank you for helping achieve the goal of a freer, better Internet.
+We always welcome new contributors to the LibreWeb project and thank you for helping achieve the goal of a freer, better Internet.
 
 You can help the LibreWeb Project in several ways, including but not limited to:
 
