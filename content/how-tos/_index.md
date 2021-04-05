@@ -6,17 +6,17 @@ description : "How-tos and tutorial for LibreWeb Browser to help you"
 
 No matter what you are looking for, we have a tutorial and how-tos to help you.
 
-## Getting started
+## Getting started - Installing LibreWeb Browser
 
-How to install LibreWeb Browser? Just visit the [releases page](https://gitlab.melroy.org/libreweb/browser/-/releases). And download the correct package for your Linux distribution.
+Visit the [releases page](https://gitlab.melroy.org/libreweb/browser/-/releases). Download the correct package for your Linux distribution.
 
 ## How to deploy my site/blog?
 
-LibreWeb is actually using markdown files as the source instead of HTML.
+LibreWeb is using markdown files as source instead of HTML.
 
-If you are using static site generators like Hugo or Jekyll to generate your site currently, you should be future proof for LibreWeb.
+You should be future-proof for LibreWeb if you currently use static site generators like Hugo or Jekyll to generate your site.
 
-Moreover, LibreWeb has a built-in markdown editor to easily write our own site with no technical skills required. Additional features will be added later for deploying the content on IPFS as well as fully functional sites, simular to Hugo/Jekyll. *Without* any need to generate HTML content.
+LibreWeb has a built-in markdown editor that allows you to easily write your own site without the need for technical skills. Moreover, LibreWeb will soon have additional features that will allow you to deploy fully functional sites and rich content on IPFS - like you can with Hugo and Jekyll - *without* the need to know or write any HTML.
 
 ## How to browse content?
 
