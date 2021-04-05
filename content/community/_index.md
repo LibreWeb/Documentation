@@ -15,13 +15,13 @@ Join the communities below, see also [how you can help us](/faq/#how-can-i-contr
 
 ## Telegram
 
-[Join the official Telegram group](https://t.me/libreweb).
+[Join the official Telegram group](https://t.me/libreweb "External link").
 
 ## Matrix
 
-[Join the public Matrix room](https://matrix.to/#/#libreweb:melroy.org?via=melroy.org).
+[Join the public Matrix room](https://matrix.to/#/#libreweb:melroy.org?via=melroy.org "External link").
 
-*Note:* [Matrix](https://matrix.org/) is a decentralized, federated real-time communication protocol and application.
+*Note:* [Matrix](https://matrix.org/ "External link") is a decentralized, federated real-time communication protocol and application.
 
 ## Newsletter
 
