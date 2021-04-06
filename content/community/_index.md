@@ -21,7 +21,7 @@ Join the communities below, see also [how you can help us](/faq/#how-can-i-contr
 
 [Join the public Matrix room](https://matrix.to/#/#libreweb:melroy.org?via=melroy.org "External link").
 
-*Note:* [Matrix](https://matrix.org/ "External link") is a decentralized, federated real-time communication protocol and application.
+*Note:* Matrix is a decentralized chat protocol, read more about Matrix on the [Discussion page](http://localhost:1313/community/discussions/#matrix).
 
 ## Newsletter
 

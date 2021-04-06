@@ -18,6 +18,8 @@ Dicussions and help can be found on our Forums (coming soon), Telegram or Matrix
 
 {{%expand "Show installation instructions for Matrix Desktop Client on Debian/Ubuntu/Linux Mint." %}}
 
+#### How-to install Matrix Element Desktop
+
 ```sh
 sudo apt install -y wget apt-transport-https
 sudo wget -O /usr/share/keyrings/riot-im-archive-keyring.gpg https://packages.riot.im/debian/riot-im-archive-keyring.gpg

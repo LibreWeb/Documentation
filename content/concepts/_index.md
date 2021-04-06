@@ -47,3 +47,5 @@ Making it possible to download a file from many locations that aren't managed by
 * **Can speed up the web when you're far away or disconnected.** If you can retrieve a file from someone nearby instead of hundreds or thousands of miles away, you can often get it faster. This is especially valuable if your community is networked locally but doesn't have a good connection to the wider internet.
 
 ![IPFS Stack](/concepts/images/ipfs-stack.jpg?width=50pc)
+
+{{%attachments title="IPFS Documents" style="blue" pattern=".*(pdf)" /%}}
