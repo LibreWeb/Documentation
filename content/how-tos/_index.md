@@ -10,6 +10,70 @@ No matter what you are looking for, we have a tutorial and how-tos to help you.
 
 Visit the [releases page](https://gitlab.melroy.org/libreweb/browser/-/releases "External link"). Download the correct package for your Linux distribution.
 
+### Advanced users - Verifying GPG signature of LibreWeb Browser
+
+Verifying the LibreWeb Browser via GNU Privacy Guard (GPG), used to verify the authenticity of the binary.
+
+{{%expand "Show How-to verify LibreWeb applications via GPG." %}}
+
+#### Import the signing key from keyserver
+
+Import the public key from Melroy Antoine van den Berg.
+
+Type this in a terminal (or copy):
+
+```sh
+gpg --keyserver pool.sks-keyservers.net --recv-keys E0C7C029005B0CE6A7438BD571D11FF23454B9D7
+```
+
+#### Verify the fingersprints
+
+```sh
+gpg --fingerprint E0C7C029005B0CE6A7438BD571D11FF23454B9D7
+```
+
+You should see:
+
+```sh
+pub   rsa3072 2021-04-06 [SC]
+      E0C7 C029 005B 0CE6 A743  8BD5 71D1 1FF2 3454 B9D7
+uid           [ unknown] Melroy Antoine van den Berg <melroy@melroy.org>
+sub   rsa3072 2021-04-06 [E]
+```
+
+#### Download the Browser and the signature file (asc)
+
+[Download the LibreWeb Browser](https://gitlab.melroy.org/libreweb/browser/-/releases "External link") as well as the corresponding signature file (.asc).
+
+#### Verify signature of the downloaded file
+
+As an example we will take the Debian/Ubuntu package:
+
+```sh
+gpg --verify libreweb-browser-v0.6.0.deb.asc libreweb-browser-v0.6.0.deb
+```
+
+The output should say “Good signature from "Melroy Antoine van den Berg <melroy@melroy.org>"”:
+
+```sh
+gpg: Signature made Wed 07 Apr 2021 12:51:23 AM CEST
+gpg:                using RSA key E0C7C029005B0CE6A7438BD571D11FF23454B9D7
+gpg: Good signature from "Melroy Antoine van den Berg <melroy@melroy.org>" [unknown]
+gpg: WARNING: This key is not certified with a trusted signature!
+gpg: There is no indication that the signature belongs to the owner.
+```
+
+Notice that there is a warning because you haven't assigned a trust index to this person (which can be ignored).
+
+```sh
+gpg: WARNING: This key is not certified with a trusted signature!
+gpg: There is no indication that the signature belongs to the owner.
+```
+
+This means that GnuPG verified that the key made that signature, but it's up to you to decide if that key really belongs to the developer. The best method is to meet the developer in person and exchange key fingerprints.
+
+{{% /expand%}}
+
 ## How to deploy my site/blog?
 
 LibreWeb is using markdown files as source instead of HTML.
