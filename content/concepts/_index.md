@@ -38,7 +38,7 @@ Most importantly, there is no need to use this technology in order to create a d
 
 ## IPFS
 
-IPFS (InterPlanetary File System) is a distributed system for storing and accessing files, websites, applications, and data.
+LibreWeb is built on top of [IPFS (InterPlanetary File System)](https://docs.ipfs.io/concepts/ "External link"), which is a distributed system for storing and accessing files, websites, applications, and data.
 
 Making it possible to download a file from many locations that aren't managed by one organization:
 
