@@ -20,7 +20,7 @@ Check-out some of the most popular content in these docs below:
 
 {{% notice disclaimer %}}
 LibreWeb Browser is still in full development. Regardless, a minimal viable product (MVP) is working.  
-So you can **download** the LibreWeb Browser and/or **[contribute](/project/contribute)** to LibreWeb project!
+So you can **download** the LibreWeb Browser and/or **[contribute](/project/contribute)** to the LibreWeb project!
 {{% /notice %}}
 
 ## Download LibreWeb
