@@ -498,6 +498,13 @@ div.notices.warning p {
 div.notices.warning p:first-child:after {
     content: 'Warning';
 }
+div.notices.disclaimer p {
+    border-top: 30px solid rgba(235, 194, 62, 0.8);
+    background: #fffadb;
+}
+div.notices.disclaimer p:first-child:after {
+    content: 'Disclaimer';
+}
 div.notices.note p {
     border-top: 30px solid #6AB0DE;
     background: #E7F2FA;
