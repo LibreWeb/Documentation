@@ -24,6 +24,10 @@ You can [create an issue](https://gitlab.melroy.org/libreweb/docs-website/-/issu
 
 See also the how-to: [How to contribute to LibreWeb Documention](http://localhost:1313/how-tos/#how-to-contribute-to-libreweb-documentation).
 
+## Reporting issues and/or feature requests
+
+You could also contribute to the LibreWeb Browser project by creating a **[new issue](https://gitlab.melroy.org/libreweb/browser/-/issues)** of a problem you encountered while using the browser. Or come-up with **[new ideas](https://gitlab.melroy.org/libreweb/browser/-/issues)** or features.
+
 ## Community
 
 Interact with the community, people may get stuck or have questions.
