@@ -18,7 +18,7 @@ Verifying the LibreWeb Browser via GNU Privacy Guard (GPG), used to verify the a
 
 #### Import the signing key from keyserver
 
-Import the public key from Melroy Antoine van den Berg.
+Import the public key from [Melroy Antoine van den Berg](https://hkps.pool.sks-keyservers.net/pks/lookup?op=vindex&search=0x71D11FF23454B9D7 "External link").
 
 Type this in a terminal (or copy):
 
