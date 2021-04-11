@@ -98,7 +98,7 @@ In order to contribute to LibreWeb Docs (this site), you should be have some bas
 2. Markdown syntax - [Take a look at the markdown basics](https://www.markdownguide.org/basic-syntax/ "External link")
 
 After this, you should be able to edit a page (notice the: "<i class="fas fa-code-branch"></i> Edit this page" link in the right-top corner).  
-Fork the git project in GitLab. Edit directly in GitLab. *Or* add your SSH public key to your GitLab profile and execute: `git clone git@gitlab.melroy.org:your_username/docs-website.git` (change `your_username`) to fork project locally on your computer. Go to your git project folder: `cd docs-website`.
+Fork the git project in GitLab. Edit directly in GitLab. *Or* add your SSH public key to your GitLab profile and execute: `git clone git@gitlab.melroy.org:your_username/docs-website.git` (change `your_username`) to fork project locally on your computer. Next, go to the project folder: `cd docs-website`.
 
 You should now be able to make changes in your fork you just cloned on your computer.  
 The git development cycle is as follows:
@@ -112,7 +112,7 @@ git merge upstream/master master # Merge with the upstream remote into your loca
 git push
 ```
 
-The last step is creating [creating a Merge Request](https://gitlab.melroy.org/libreweb/browser/-/merge_requests "External link") in GitLab. Select your fork and branch as the source and select `libreweb/docs-website` with the `master` branch as target.
+The last step is creating [creating a merge Request](https://gitlab.melroy.org/libreweb/docs-website/-/merge_requests "External link") in GitLab. Select your fork and branch as the source and select `libreweb/docs-website` with the `master` branch as target.
 
 {{% notice info %}}
 Instead of making your changes directly on your `master` branch, it's advised that you create small incremental changes via seperate branches.  
