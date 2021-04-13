@@ -16,10 +16,11 @@ Check-out some of the most popular content in these docs below:
 * [Frequently Asked Questions](/faq)
 * [How-to Contribute?](/project/contribute)
 
-## Work in Process
+## Work in Progress
 
-{{% notice note %}}
-**Disclaimer:** LibreWeb Browser is still work in progress (Alpha phase). However, you are free to contribute!
+{{% notice disclaimer %}}
+LibreWeb Browser is still in full development. Regardless, a minimal viable product (MVP) is working.  
+So you can **download** the LibreWeb Browser and/or **[contribute](/project/contribute)** to the LibreWeb project!
 {{% /notice %}}
 
 ## Download LibreWeb
