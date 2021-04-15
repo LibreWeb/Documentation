@@ -8,43 +8,45 @@ New to LibreWeb or the distributed web? Learn about the concepts.
 
 ## LibreWeb
 
-LibreWeb (specifically LibreWeb Browser) is a fully decentralized open-source Web Browser.
+LibreWeb - specifically LibreWeb *Browser* - is a fully decentralized, open-source, web browser.
 
-Allowing you to browse and host your content on the new decentralized web/Internet. Powered by [IPFS](#ipfs).
+Powered by [IPFS](#ipfs), it allows you to browse, create and host content on the new, decentralized Internet.
 
 Decentralization comes with many benefits, including but not limited to:
 
-* **No censorship**. Because the data is stored in a decentralized manner across the world, governments and corporations can neither block nor censor any content.
-* **No single-point-of-failure.** If a specific server/node is down, your data can be served by other nodes within the network.
-* **Fast**. The nearest node can serve you the content, basically acting as a content delivery network (CDN), however then decentralized.
+* **No censorship**. Because data is stored in a decentralized manner around the world, governments and corporations can neither block nor censor content.
+* **No single-point-of-failure.** If a specific server or node fails, data is still served by other nodes within the network.
+* **Fast**. The nearest node can serve content as part of a broad, decentralized, content delivery network (CDN). Many nodes are potentially available to serve the same content.
 
-See also the [Project page](/project); if you want to learn more about the LibreWeb project.
+Visit the [Project page](/project) to learn more about the LibreWeb project.
 
 ### Markdown Syntax
 
-LibreWeb is using [Markdown syntax](https://en.wikipedia.org/wiki/Markdown "External link") as the 'source-code' of your content/article/site/blog, similar to static-website generators like `Hugo` or `Jekyll`, however LibreWeb Browser does **not** need the conversion step from Markdown to HTML.
+LibreWeb uses simple [Markdown syntax](https://en.wikipedia.org/wiki/Markdown "External link") as the 'source-code' for your content, article, site or blog ... similar to static website generators like `Hugo` and `Jekyll`. LibreWeb Browser however, does _not_ require conversion from Markdown to HTML.
 
-LibreWeb Browser parses & renders the Markdown documents directly, allowing the end-user to view content. Without HTML and JavaScript, websites are much cleaner and load faster. 
+LibreWeb Browser parses & renders Markdown documents directly, allowing end-users to view content without the need for HTML or JavaScript. This results in websites that are much cleaner and load faster. 
 
-Regarding security, without JavaScript, WebRTC, PHP and/or SQL the web is a much safer place.  
+Without JavaScript, WebRTC, PHP and/or SQL, the web becomes a much more safe and secure Internet.  
 
-This is a real content-first approach, which allows the user to change the look & feel of content, just like with e-books.
+This is a real user-first approach, allowing anyone to easily change and customize the look & feel of content - just like with e-books.
 
 ### Blockchain
 
-LibreWeb is explicitly **NOT** using any Blockchain technology or based on a cryptocurrency. Because blockchain solutions can give huge scalability issues as well as an unnecessary bad influence on our climate.
-
-Most importantly, there is no need to use this technology in order to create a decentralized Internet.
+LibreWeb explicitly does _not_ use Blockchain nor is it based on cryptocurrency. It therefore avoids huge scalability issues and the unnecessary, negative impact upon the environment that's associated with these technologies. After all, neither is needed to create a fast, decentralized and uncensorable Internet.
 
 ## IPFS
 
-LibreWeb is built on top of [IPFS (InterPlanetary File System)](https://docs.ipfs.io/concepts/ "External link"), which is a distributed system for storing and accessing files, websites, applications, and data.
+LibreWeb is built on top of [IPFS](https://docs.ipfs.io/concepts/ "External link") (InterPlanetary File System) - a distributed system for storing and accessing files, websites, applications, and data.
 
-Making it possible to download a file from many locations that aren't managed by one organization:
+The underlying [IPFS](https://docs.ipfs.io/concepts/ "External link") technology makes it possible to download the same file from many locations, not managed by any single organization. 
 
-* **Supports a resilient internet.** If someone attacks Wikipedia's web servers or an engineer at Wikipedia makes a big mistake that causes their servers to catch fire, you can still get the same webpages from somewhere else.
-* **Makes it harder to censor content.** Because files on IPFS can come from many places, it's harder for anyone (whether they're states, corporations, or someone else) to block content. We hope IPFS can help provide ways to circumvent actions like these when they happen.
-* **Can speed up the web when you're far away or disconnected.** If you can retrieve a file from someone nearby instead of hundreds or thousands of miles away, you can often get it faster. This is especially valuable if your community is networked locally but doesn't have a good connection to the wider internet.
+[IPFS](https://docs.ipfs.io/concepts/ "External link"):
+
+* **Supports a resilient Internet.** Imagine an [IPFS](https://docs.ipfs.io/concepts/ "External link") world in which Wikipedia's web servers suffer an attack or some other catastrophic failure. Users would still have access to the exact same webpages - served seamlessly from countless nodes elsewhere.
+* **Makes it harder to censor content.** Because files on [IPFS](https://docs.ipfs.io/concepts/ "External link") can come from many places, it's much harder for governments, corporations or _anyone_ to block content. [IPFS](https://docs.ipfs.io/concepts/ "External link") is designed to circumvent censorship and other attacks.	
+* **Can speed up the web when you're far away or disconnected.** Retrieving a file from nearby instead of hundreds or thousands of miles away often means getting it faster. This is especially valuable to communities that are networked locally but don't have good connections to the wider Internet. 
+
+Learn more about [IPFS](https://docs.ipfs.io/concepts/ "External link") in the *IPFS Whitepaper* attached at the bottom of this page. 
 
 ![IPFS Stack](/concepts/images/ipfs-stack.jpg?width=50pc)
 
