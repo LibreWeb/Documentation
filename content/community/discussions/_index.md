@@ -10,6 +10,12 @@ Dicussions and help can be found on our Forums (coming soon), Telegram or Matrix
 
 ## Instant chat
 
+### Telegram
+
+Telegram is a cross-platform messaging service, clients are open-source (server is proprietary). Also messages are not encrypted by default, secret chats are encrypted.
+
+[Join the official Telegram group](https://t.me/libreweb).
+
 ### Matrix
 
 [Matrix](https://matrix.org) is a decentralized, open standard and federated communication protocol. You could use the [web version](https://element.io/), or install one of the many [Matrix Desktop clients](https://matrix.org/clients/) on your computer. Or even host your own Matrix server (Synapse) and become part of the federation. Both of which are open-sourced. Messages can be end-to-end encrypted if desired.
@@ -34,9 +40,3 @@ sudo apt install element-desktop
 
 Matrix is decentralized, this means that in addition to the official matrix.org server, you can also register an account on other homeservers.  
 My homeserver URL is open for public registrations: `https://matrix.melroy.org`.
-
-### Telegram
-
-Telegram is a cross-platform messaging service, clients are open-source (server is proprietary). Also messages are not encrypted by default, secret chats are encrypted.
-
-[Join the official Telegram group](https://t.me/libreweb).
