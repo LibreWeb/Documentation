@@ -18,7 +18,7 @@ Telegram is a cross-platform messaging service, clients are open-source (server 
 
 ### Matrix
 
-[Matrix](https://matrix.org) is a decentralized, open standard and federated communication protocol. You could use the [web version](https://element.io/), or install one of the many [Matrix Desktop clients](https://matrix.org/clients/) on your computer. Or even host your own Matrix server (Synapse) and become part of the federation. Both of which are open-sourced. Messages can be end-to-end encrypted if desired.
+[Matrix](https://matrix.org) is a decentralized, open standard and federated communication protocol. You could use the [web0client](https://app.element.io), or install one of the many [Matrix Desktop clients](https://matrix.org/clients/) on your computer (the [Element Desktop client](https://element.io/get-started) is recommended). Or even host your own Matrix server (Synapse) and become part of the federation. Both of which are open-sourced. Messages can be end-to-end encrypted if desired.
 
 [Join official Matrix room](https://matrix.to/#/#libreweb:melroy.org?via=melroy.org).
 
