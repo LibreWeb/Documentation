@@ -18,12 +18,12 @@ Verifying the LibreWeb Browser via GNU Privacy Guard (GPG), used to verify the a
 
 #### Import the signing key from keyserver
 
-Import the public key from [Melroy Antoine van den Berg](https://hkps.pool.sks-keyservers.net/pks/lookup?op=vindex&search=0x71D11FF23454B9D7 "External link").
+Import the public key from [Melroy Antoine van den Berg](https://keys.openpgp.org/search?q=E0C7C029005B0CE6A7438BD571D11FF23454B9D7 "External link").
 
 Type this in a terminal (or copy):
 
 ```sh
-gpg --keyserver pool.sks-keyservers.net --recv-keys E0C7C029005B0CE6A7438BD571D11FF23454B9D7
+gpg --keyserver keys.openpgp.org --recv-keys E0C7C029005B0CE6A7438BD571D11FF23454B9D7
 ```
 
 #### Verify the fingersprints
