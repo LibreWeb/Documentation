@@ -85,15 +85,15 @@ LibreWeb has a built-in markdown editor that allows you to easily write your own
 
 ## How to browse content?
 
-Currently, you can visit pages in the address bar at the top of the browser. 
+Currently, you can visit pages by using the address bar at the top of the LibreWeb browser. 
 
 *WIP:* Once we have a decentralized nameserver solution in place (IPNS or alike). You will be able to visit pages using a human readable domain names.
 
 ## How to find other websites?
 
-*WIP:* We way want to implement a decentralized store, where you can store your metadata about your website. So no spiker/webcrawler or centralized solution should be needed to search the decentralized web.
+*WIP:* We way want to implement a decentralized store, where you can store your meta-data about your website. No spider/webcrawler or centralized solution should be needed to search the decentralized web.
 
-In the meanwhile, you need to know the content hash (also known as `CID`) of the file/site to you want to visit.
+In the meanwhile, you need to know the content hash (also known as `CID`) of the file/site you want to visit.
 
 ## How to contribute to LibreWeb Documentation?
 
