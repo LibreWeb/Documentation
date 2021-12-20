@@ -8,7 +8,7 @@ No matter what you are looking for, we have a tutorial and how-tos to help you.
 
 ## Getting started - Installing LibreWeb Browser
 
-Visit the [releases page](https://gitlab.melroy.org/libreweb/browser/-/releases "External link"){:target="_blank"}. Download the correct package for your Linux distribution.
+Visit the [releases page](https://gitlab.melroy.org/libreweb/browser/-/releases "External link"). Download the correct package for your Linux distribution.
 
 ### Advanced users - Verifying GPG signature of LibreWeb Browser
 
@@ -18,7 +18,7 @@ Verifying the LibreWeb Browser via GNU Privacy Guard (GPG), used to verify the a
 
 #### Import the signing key from keyserver
 
-Import the public key from [Melroy Antoine van den Berg](https://keys.openpgp.org/search?q=E0C7C029005B0CE6A7438BD571D11FF23454B9D7 "External link"){:target="_blank"}.
+Import the public key from [Melroy Antoine van den Berg](https://keys.openpgp.org/search?q=E0C7C029005B0CE6A7438BD571D11FF23454B9D7 "External link").
 
 Type this in a terminal (or copy):
 
@@ -43,7 +43,7 @@ sub   rsa3072 2021-04-06 [E]
 
 #### Download the Browser and the signature file (asc)
 
-[Download the LibreWeb Browser](https://gitlab.melroy.org/libreweb/browser/-/releases "External link"){:target="_blank"} as well as the corresponding signature file (.asc).
+[Download the LibreWeb Browser](https://gitlab.melroy.org/libreweb/browser/-/releases "External link") as well as the corresponding signature file (.asc).
 
 #### Verify signature of the downloaded file
 
@@ -76,7 +76,7 @@ This means that GnuPG verified that the key made that signature, but it's up to 
 
 ## How to deploy my site/blog?
 
-LibreWeb is using the **[markdown format](https://www.markdownguide.org/basic-syntax/){:target="_blank"}** as the document source-code, instead of HTML code.   
+LibreWeb is using the **[markdown format](https://www.markdownguide.org/basic-syntax/)** as the document source-code, instead of HTML code.   
 LibreWeb will load, parse and display the markdown files, directly within the LibreWeb Browser, visually.
 
 If you are already using static site generators like Hugo or Jekyll to generate your site, you are already future-proof for LibreWeb (the difference is you don't need the build step).
@@ -87,18 +87,20 @@ LibreWeb has a built-in markdown editor that allows you to easily write your own
 
 Currently, you can visit pages in the address bar at the top of the browser. 
 
-*WIP:* Once we have a decentralized nameserver in place (IPNS or alike), you will be able to visit pages 
+*WIP:* Once we have a decentralized nameserver solution in place (IPNS or alike). You will be able to visit pages using a human readable domain names.
 
 ## How to find other websites?
 
-TODO
+*WIP:* We way want to implement a decentralized store, where you can store your metadata about your website. So no spiker/webcrawler or centralized solution should be needed to search the decentralized web.
+
+In the meanwhile, you need to know the content hash (also known as `CID`) of the file/site to you want to visit.
 
 ## How to contribute to LibreWeb Documentation?
 
 In order to contribute to LibreWeb Docs (this site), you should be have some basic knowledge about:
 
 1. [Git](#git) - See below
-2. Markdown syntax - [Take a look at the markdown basics](https://www.markdownguide.org/basic-syntax/ "External link"){:target="_blank"}
+2. Markdown syntax - [Take a look at the markdown basics](https://www.markdownguide.org/basic-syntax/ "External link")
 
 After this, you should be able to edit a page (notice the: "<i class="fas fa-code-branch"></i> Edit this page" link in the right-top corner).  
 Fork the git project in GitLab. Edit directly in GitLab. *Or* add your SSH public key to your GitLab profile and execute: `git clone git@gitlab.melroy.org:your_username/docs-website.git` (change `your_username`) to fork project locally on your computer. Next, go to the project folder: `cd docs-website`.
