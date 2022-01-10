@@ -11,8 +11,6 @@ Join the communities below, see also [how you can help us](/faq/#how-can-i-contr
 
 <!-- ## Forums -->
 
-<!-- ## Blog -->
-
 ## Telegram
 
 [Join the official Telegram group](https://t.me/libreweb "External link").
@@ -23,9 +21,13 @@ Join the communities below, see also [how you can help us](/faq/#how-can-i-contr
 
 *Note:* Matrix is a decentralized chat protocol, read more about Matrix on the [Discussion page](/community/discussions/#matrix).
 
-## Newsletter
+## Gitter
 
-Coming soon...
+[Join on Gitter](https://gitter.im/LibreWeb/Browser "External link").
+
+## News / Blogs
+
+*Coming soon!*
 
 ## Discussions
 
