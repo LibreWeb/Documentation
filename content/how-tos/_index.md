@@ -113,7 +113,7 @@ git remote add upstream https://gitlab.melroy.org/libreweb/docs-website.git # Ad
 git checkout master # Be sure we're on the master branch
 git commit -am "My changes" # If applicable, commit your changes (execute "git add -A" before, if you also added new files)
 git fetch upstream # Get the latest changes from upstream remote
-git merge upstream/master master # Merge with the upstream remote into your local master branch fork
+git rebase upstream/master master # Rebase with the upstream remote into your local master branch fork. We prefer rebase over git merge
 git push
 ```
 
