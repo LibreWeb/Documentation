@@ -8,11 +8,11 @@ No matter what you are looking for, we have a tutorial and how-tos to help you.
 
 ## Getting started - Installing LibreWeb Browser
 
-Visit the [releases page](https://gitlab.melroy.org/libreweb/browser/-/releases "External link"). Download the correct package for your Linux distribution.
+Visit the [releases page](https://gitlab.melroy.org/libreweb/browser/-/releases "External link"). Download the correct package for your operating system / distribution.
 
 ### Advanced users - Verifying GPG signature of LibreWeb Browser
 
-Verifying the LibreWeb Browser via GNU Privacy Guard (GPG), used to verify the authenticity of the binary.
+Verifying the LibreWeb Browser via GNU Privacy Guard (GPG), used to verify the authenticity of the binary. Expand the how-to below.
 
 {{%expand "Show How-to verify LibreWeb applications via GPG." %}}
 
