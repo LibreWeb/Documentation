@@ -35,9 +35,9 @@ We are using [GitLab Milestones](https://gitlab.melroy.org/libreweb/browser/-/mi
 
 The mission of LibreWeb is to create a fully decentralized web & web-browser, build on top of IPFS. Allowing users to easily surf the decentralized web as well as publish content on the decentralized web.
 
-## Support
+## Supporters
 
-You can support me (Melory van den Berg) using [GitHub Sponsors](https://github.com/sponsors/danger89) or via the [BackMe.org project](https://libreweb.backme.org/).
+You can support the project/me (Melroy van den Berg) using [GitHub Sponsors](https://github.com/sponsors/danger89) or via the [BackMe.org project](https://libreweb.backme.org/).
 
 **Thank you for your support!** 🙌🏽
 
