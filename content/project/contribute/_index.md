@@ -35,3 +35,8 @@ Interact with the community, people may get stuck or have questions.
 Join the [Telegram](https://t.me/libreweb) and/or [Matrix](https://matrix.to/#/#libreweb:melroy.org?via=melroy.org) community. <!-- TODO: add Forums -->
 
 See also: [Community page](/community).
+
+
+## Sponsor
+
+You can also help the project by becoming a [supporter](/project/sponsor).
