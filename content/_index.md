@@ -19,10 +19,11 @@ Check-out some of the most popular content in these docs below:
 ## Work in Progress
 
 {{% notice disclaimer %}}
-LibreWeb Browser is still in full development. Nevertheless, a minimal viable product (MVP) is working.  
-So you can [**download**](https://gitlab.melroy.org/libreweb/browser/-/releases) the LibreWeb Browser and/or **[contribute](/project/contribute)** to the LibreWeb project!
+LibreWeb Browser is still under heavy development. Nevertheless, a minimum viable product (MVP) is working.  
+So you can [**download**](https://gitlab.melroy.org/libreweb/browser/-/releases) the LibreWeb Browser and/or **[contribute](/project/contribute)** to the LibreWeb project! You can also [sponsor the project](/project/sponsor).
 {{% /notice %}}
 
-## Download LibreWeb
+
+## Download LibreWeb Browser
 
 {{% button href="https://gitlab.melroy.org/libreweb/browser/-/releases" target="_blank" icon="fas fa-download" %}}Download LibreWeb Browser{{% /button %}}
