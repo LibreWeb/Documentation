@@ -29,7 +29,7 @@ See also:
 
 ## Roadmap
 
-We are using [GitLab Milestones](https://gitlab.melroy.org/libreweb/browser/-/milestones "External link") to track the roadmap features/epics of the project and their priority. If you find a specific issue important to you, you can prioritize that issue by giving it a "thumbs up".
+We are using [GitLab Milestones](https://gitlab.melroy.org/libreweb/browser/-/milestones "External link") to track the roadmap features/epics of the project and their priority. If you find a [specific issue](https://gitlab.melroy.org/libreweb/browser/-/issues) important to you, you can prioritize that issue by giving it a "thumbs up".
 
 ## Mission statement
 
