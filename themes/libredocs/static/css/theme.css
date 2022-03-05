@@ -330,6 +330,21 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 #body .padding {
     padding: 3rem 6rem;
 }
+
+@media only all and (min-width: 32.0em) {
+    #body img[src$='#center'] {
+        display: block;
+        margin: 0.3rem auto;
+    }
+    #body img[src$='#floatleft'] {
+        float:left;
+        margin: 0.3rem;
+    }
+    #body img[src$='#floatright'] {
+        float:right;
+        margin: 0.3rem;
+    }
+}
 @media only all and (max-width: 59.938em) {
     #body .padding {
         position: static;

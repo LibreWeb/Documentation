@@ -22,13 +22,16 @@ Visit the [Project page](/project) to learn more about the LibreWeb project.
 
 ### Markdown Syntax
 
+![LibreWeb Settings](/concepts/images/libreweb-browser-settings.png#floatright)
+
 LibreWeb uses simple [Markdown syntax](https://en.wikipedia.org/wiki/Markdown "External link") as the 'source-code' of your content (article, site or blog...). Similar to static website generators like `Hugo` and `Jekyll`. However, LibreWeb Browser does _not_ require conversion from Markdown to HTML.
 
 LibreWeb Browser parses & renders Markdown documents *directly*, allowing end-users to view content without the need of HTML or JavaScript. This results in websites that are much cleaner and load faster. As an added benefit the LibreWeb browser has a 'content first' approach.
 
 And without JavaScript, WebRTC, PHP or SQL websites becomes much safer to browse.
 
-The LibreWeb browser allows visitors to easily change and customize the look & feel of content - similar to e-book readers.
+The LibreWeb browser allows visitors to easily change and customize the look & feel of content - similar to e-book readers. See the screenshot on the right.
+
 
 ### Blockchain
 
