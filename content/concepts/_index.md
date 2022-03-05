@@ -8,13 +8,13 @@ New to LibreWeb or the distributed web? Learn about the concepts.
 
 ## LibreWeb
 
-LibreWeb - specifically LibreWeb *Browser* - is a fully decentralized, open-source, web browser.
+LibreWeb - specifically the LibreWeb *Browser* - is a fully decentralized, free and open-source web browser.
 
 Powered by [IPFS](#ipfs), it allows you to browse, create and host content on the new, decentralized Internet.
 
 Decentralization comes with many benefits, including but not limited to:
 
-* **No censorship**. Because data is stored in a decentralized manner around the world, governments and corporations can neither block nor censor content.
+* **Censorship resistent**. Because data is stored in a decentralized manner around the world, governments and corporations can neither block nor censor content.
 * **No single-point-of-failure.** If a specific server or node fails, data is still served by other nodes within the network.
 * **Fast**. The nearest node can serve content as part of a broad, decentralized, content delivery network (CDN). Many nodes are potentially available to serve the same content.
 
@@ -22,13 +22,13 @@ Visit the [Project page](/project) to learn more about the LibreWeb project.
 
 ### Markdown Syntax
 
-LibreWeb uses simple [Markdown syntax](https://en.wikipedia.org/wiki/Markdown "External link") as the 'source-code' for your content, article, site or blog ... similar to static website generators like `Hugo` and `Jekyll`. LibreWeb Browser however, does _not_ require conversion from Markdown to HTML.
+LibreWeb uses simple [Markdown syntax](https://en.wikipedia.org/wiki/Markdown "External link") as the 'source-code' of your content (article, site or blog...). Similar to static website generators like `Hugo` and `Jekyll`. However, LibreWeb Browser does _not_ require conversion from Markdown to HTML.
 
-LibreWeb Browser parses & renders Markdown documents directly, allowing end-users to view content without the need for HTML or JavaScript. This results in websites that are much cleaner and load faster. 
+LibreWeb Browser parses & renders Markdown documents *directly*, allowing end-users to view content without the need of HTML or JavaScript. This results in websites that are much cleaner and load faster. As an added benefit the LibreWeb browser has a 'content first' approach.
 
-Without JavaScript, WebRTC, PHP and/or SQL, the web becomes a much more safe and secure Internet.  
+And without JavaScript, WebRTC, PHP and/or SQL, the websites becomes much safer to use.
 
-This is a real user-first approach, allowing anyone to easily change and customize the look & feel of content - just like with e-books.
+The browser allows visit to easily change and customize the look & feel of content - similar to e-book readers.
 
 ### Blockchain
 
