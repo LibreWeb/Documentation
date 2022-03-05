@@ -30,7 +30,7 @@ LibreWeb Browser parses & renders Markdown documents *directly*, allowing end-us
 
 And without JavaScript, WebRTC, PHP or SQL websites becomes much safer to browse.
 
-The LibreWeb browser allows visitors to easily change and customize the look & feel of content - similar to e-book readers. See the screenshot on the right.
+The LibreWeb browser allows visitors to easily change and customize their look & feel of the content - similar to e-book readers. See the screenshot on the right.
 
 
 ### Blockchain
