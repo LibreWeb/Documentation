@@ -32,7 +32,9 @@ This is a real user-first approach, allowing anyone to easily change and customi
 
 ### Blockchain
 
-LibreWeb explicitly does _not_ use Blockchain nor is it based on cryptocurrency. It therefore avoids huge scalability issues and the unnecessary, negative impact upon the environment that's associated with these technologies. After all, neither is needed to create a fast, decentralized and uncensorable Internet.
+LibreWeb explicitly does _not_ use Blockchain nor is it based on cryptocurrencies. It therefore avoids huge scalability issues and the unnecessary, negative impact upon the environment that's associated with these technologies. After all, neither is needed to create a fast, decentralized and censorship resistent Internet.
+
+If blockchain technology is needed to solve a specific problem in the future, that is fine.
 
 ## IPFS
 
