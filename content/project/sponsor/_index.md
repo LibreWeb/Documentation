@@ -10,6 +10,9 @@ Supporting LibreWeb means you will help accelerate the development of the LibreW
 
 ## Become supporter!
 
-Support the project using [GitHub Sponsors](https://github.com/sponsors/danger89), [BackMe project](https://libreweb.backme.org/) or via Bitcoin: `bc1q3kc8nh2he7jyy6hum4dr84dhaajy5nex30wm7q`.
+Support the project using [GitHub Sponsors](https://github.com/sponsors/danger89), [BackMe project](https://libreweb.backme.org/) or via cryptocurrencies:
+
+- Bitcoin (BTC): `bc1q3kc8nh2he7jyy6hum4dr84dhaajy5nex30wm7q`
+- Bitcoin Cash (BCH): `bitcoincash:qql38rf9yw55ajyn3ds7vew5jkrxpvdhfyv6h0fwp8`
 
 **Thank you for your support!** 🙌🏽
