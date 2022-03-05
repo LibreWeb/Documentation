@@ -26,9 +26,9 @@ LibreWeb uses simple [Markdown syntax](https://en.wikipedia.org/wiki/Markdown "E
 
 LibreWeb Browser parses & renders Markdown documents *directly*, allowing end-users to view content without the need of HTML or JavaScript. This results in websites that are much cleaner and load faster. As an added benefit the LibreWeb browser has a 'content first' approach.
 
-And without JavaScript, WebRTC, PHP and/or SQL, the websites becomes much safer to use.
+And without JavaScript, WebRTC, PHP or SQL websites becomes much safer to browse.
 
-The browser allows visit to easily change and customize the look & feel of content - similar to e-book readers.
+The LibreWeb browser allows visitors to easily change and customize the look & feel of content - similar to e-book readers.
 
 ### Blockchain
 
